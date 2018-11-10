@@ -333,7 +333,7 @@ $ sudo dpkg -i netease-cloud-music_1.1.0_amd64_ubuntu.deb
 ## 9、安装WPS
 
 * 下载[WPS软件包](http://linux.wps.cn/)
-* 下载[WPS依赖的字体](https://github.com/neujie/neujie.github.io/blob/master/packages/wps_symbol_fonts.zip)(违删)
+* 下载[WPS依赖的字体](https://github.com/neujie/www.neujie.cn/blob/master/packages/wps_symbol_fonts.zip)(违删)
 * 安装字体方法参照`安装gofont操作`
 
 ## 10、图形软件

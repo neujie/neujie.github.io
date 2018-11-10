@@ -1,2 +1,2 @@
-[Be Zero, Be Funny](https://neujie.github.io)。
+[Be Zero, Be Funny](https://www.neujie.cn)。
 
