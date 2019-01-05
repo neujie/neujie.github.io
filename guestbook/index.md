@@ -4,7 +4,7 @@ title: 留言
 comments: yes
 ---
 
-<img src="/images/QIQ1.png" alt="球爱球" width="100%" height="100%" />
+<img src="/images/QIQ1.png" alt="球爱球" width="50%" height="50%" />
 
 
 QQ：277186999  
