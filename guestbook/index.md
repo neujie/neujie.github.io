@@ -4,7 +4,9 @@ title: 留言
 comments: yes
 ---
 
-<img src="/images/QIQ1.png" alt="球爱球" width="50%" height="50%" />
+`这是“球爱球”，大球爱小球，智能小眼睛`
+
+<img src="/images/QIQ1.png" alt="球爱球" width="20%" height="20%" />
 
 
 QQ：277186999  
