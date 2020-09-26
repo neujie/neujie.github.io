@@ -17,6 +17,6 @@ tags:
 2. 想象百年中华后的自己、家人、家乡、祖国的样子；
 
 博客记录：
-* 技术博客：[wiki.cq2050.com](wiki.cq2050.com)
-* 生活博客：[life.cq2050.com](life.cq2050.com)
+* 技术博客：[wiki.cq2050.com](https://wiki.cq2050.com)
+* 生活博客：[life.cq2050.com](https://life.cq2050.com)
 
